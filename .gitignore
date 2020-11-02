@@ -1,0 +1,17 @@
+# Maven
+target/
+
+# Eclipse
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# VSTS Code
+.vscode/

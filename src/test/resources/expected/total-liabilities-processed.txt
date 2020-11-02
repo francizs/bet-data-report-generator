@@ -1,0 +1,1 @@
+[TotalLiability(currency= GBP, noOfBets=13, totalStakes=61.1, totalLiability=364.10), TotalLiability(currency= EUR, noOfBets=11, totalStakes=38.25, totalLiability=248.900)]
